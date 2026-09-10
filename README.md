@@ -64,7 +64,7 @@ The application relies on a **Coordinator Agent** (Banking Operations Manager) t
 
 ---
 
-## 📁 Project Structure (MVC Architecture)
+## 📁 Project Structure (MVC Architecture).
 
 ```
 Crew_AI_bankingagent/
