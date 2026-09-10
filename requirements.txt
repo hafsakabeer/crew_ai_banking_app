@@ -1,0 +1,12 @@
+streamlit
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-groq
+tenacity
+pandas
+python-dotenv
+litellm
+
+
